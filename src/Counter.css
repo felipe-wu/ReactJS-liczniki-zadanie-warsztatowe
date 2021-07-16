@@ -1,0 +1,8 @@
+.counter {
+    border: 1px solid blue;
+    padding: 20px;
+    width: 60%;
+    position: relative;
+    margin: 20px auto;
+    font-size: 25px;
+}
